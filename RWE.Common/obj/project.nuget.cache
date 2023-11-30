@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8X3MM5d8ZS1wFqZOuytATPlBjnawuWgyW4GtMO34HOBJLRVP8LCXHK1X7yHFg+Zhc2lmcLnqqEEmNB4Lso78g==",
+  "success": true,
+  "projectFilePath": "/Users/chrisschmidt/source/Sample/RWE/RWE.Common/RWE.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/chrisschmidt/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/chrisschmidt/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chrisschmidt/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/chrisschmidt/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/chrisschmidt/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/chrisschmidt/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

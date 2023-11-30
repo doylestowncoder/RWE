@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JY7HBqfo1KkK+SSU/8eviLbO/q04vha2qVbGjmBJI9Q=",
+  "Source": "RWE.WebApi",
+  "BasePath": "_content/RWE.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

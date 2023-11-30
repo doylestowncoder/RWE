@@ -1,0 +1,12 @@
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/bin/Debug/net7.0/RWE.Common.deps.json
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/bin/Debug/net7.0/RWE.Common.dll
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/bin/Debug/net7.0/RWE.Common.pdb
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.csproj.AssemblyReference.cache
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.AssemblyInfoInputs.cache
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.AssemblyInfo.cs
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.csproj.CoreCompileInputs.cache
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.dll
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/refint/RWE.Common.dll
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/RWE.Common.pdb
+/Users/chrisschmidt/source/Sample/RWE/RWE.Common/obj/Debug/net7.0/ref/RWE.Common.dll
